@@ -1,47 +1,47 @@
-# Contributor Covenant Code of Conduct
+#521xueweihan          기여자 규약 행동 강령        
 
-## Our Pledge
+##          우리의 공약        
 
-We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+회원, 기여자, 지도자로서 우리 공동체에 대한 참여를 연령, 신체 규모, 가시적이거나 보이지 않는 장애, 민족성, 성 특성, 성 정체성과 표현, 경험 수준, 교육, 사회경제적 지위, 국적, 개인적 외모, 인종, 종교 또는 성적 정체성과 지향에 관계없이 모두에게 괴롭힘 없는 경험으로 만들 것을 다짐한다.
 
-We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
+우리는 개방적이고 환영하며 다양하고 포용적이며 건강한 공동체에 기여하는 방식으로 행동하고 교류할 것을 다짐한다.
 
-## Our Standards
+##          우리의 기준        
 
-Examples of behavior that contributes to a positive environment for our community include:
+우리 공동체에 긍정적인 환경에 기여하는 행동의 예로는 다음과 같은 것들이 있다.
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the overall community
+*          다른 사람에 대한 공감과 친절을 보여주는 것        
+*          서로 다른 의견, 관점, 경험을 존중하는 것        
+*          건설적 피드백을 주고 우아하게 받아들이는 것        
+*          우리의 실수로 피해를 입은 사람들에게 책임을 받아들이고 사과하며 경험으로부터 배우는 것        
+*         개인으로서 우리뿐만 아니라 전체적인 공동체를 위해 가장 좋은 것에 초점을 맞추고 있습니다.       
 
-Examples of unacceptable behavior include:
+받아들일 수 없는 행동의 예로는 다음과 같은 것들이 있다.
 
-* The use of sexualized language or imagery, and sexual attention or advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email address, without their explicit permission
-* Contacting individual members, contributors, or leaders privately, outside designated community mechanisms, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a professional setting
+*         성적 언어나 이미지의 사용, 그리고 어떤 종류의 성적 관심이나 발전       
+*         트롤링, 모욕 또는 경멸적인 발언, 그리고 개인적 또는 정치적 공격       
+*         공공 또는 사적인 괴롭힘       
+*         명시적 허가 없이 물리적 또는 이메일 주소와 같은 타인의 개인 정보를 게시합니다.       
+*         개별 구성원, 기여자 또는 지도자를 명시적 허가 없이 개별 지정 커뮤니티 메커니즘 외부에서 접촉하는 경우       
+*         전문적 환경에서 부적절하다고 볼 수 있는 다른 행위       
 
-## Enforcement Responsibilities
+##         집행책임       
 
-Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
+지역사회 지도자들은 우리의 허용 가능한 행동 기준을 명확히 하고 집행할 책임이 있으며 부적절하고 위협적이며 공격적이거나 해롭다고 생각하는 모든 행동에 대응하여 적절하고 공정한 시정 조치를 취할 것이다.
 
-Community leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
+지역사회 지도자들은 이 행동강령에 정렬되지 않은 댓글, 커밋, 코드, 위키 편집, 이슈 및 기타 기여를 제거, 편집 또는 거부할 권리와 책임이 있으며, 적절한 경우 절제 결정의 이유를 전달할 것이다.
 
-## Scope
+##         범위       
 
-This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
+이 행동강령은 모든 공동체 공간 내에서 적용되며, 개인이 공공 공간에서 공동체를 공식적으로 대표할 때에도 적용된다. 우리 공동체를 대표하는 예로는 공식 이메일 주소를 사용하거나, 공식 소셜미디어 계정을 통해 게시하거나, 온·오프라인 행사에서 임명된 대표 역할을 하는 것이 있다.
 
-## Enforcement
+##         시행       
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at opensource@github.com. All complaints will be reviewed and investigated promptly and fairly.
+욕설, 괴롭힘 또는 기타 용납할 수 없는 행동의 사례는 오픈소스@github.com에서 집행을 담당하는 지역사회 지도자들에게 보고될 수 있다. 모든 민원은 신속하고 공정하게 검토 및 조사될 것이다.
 
-All community leaders are obligated to respect the privacy and security of the reporter of any incident.
+모든 지역사회 지도자들은 어떤 사건의 기자의 사생활과 보안을 존중할 의무가 있다.
 
-## Enforcement Guidelines
+##         집행지침       
 
 Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
 
